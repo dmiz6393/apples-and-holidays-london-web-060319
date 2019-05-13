@@ -44,7 +44,7 @@ holidays_with_bbq<<holiday
 end 
 end 
 end
-holidays_with_bbq
+holidays_with_bbq(holiday_hash)
 end 
 
 
