@@ -41,10 +41,8 @@ holidays.each do |holiday,supplies|
 holidays_with_bbq = []
 if supplies=="BBQ"
 holidays_with_bbq<<holiday 
-
-  # return an array of holiday names (as symbols) where supply lists
-  # include the string "BBQ"
-
+end 
+end 
 end
 
 
